@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+import { App } from './App'
 
 /*2 - Aqui temos as importações que fazem o código ser renderizado no index.html
 import React from 'react' - responsável pelo core do projeto
